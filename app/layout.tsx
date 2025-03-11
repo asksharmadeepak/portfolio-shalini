@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Shalini - Senior Technical Recruiter",
-  description: "HR Professional with 10+ years of experience in technical recruitment",
+  description: "HR Professional with 8+ years of experience in technical recruitment",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
     generator: 'v0.dev'
 }

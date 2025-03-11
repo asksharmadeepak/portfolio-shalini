@@ -36,7 +36,7 @@ export default function AboutPage() {
         <div className="space-y-4">
           <h1 className="text-4xl font-bold">About Me</h1>
           <p className="text-lg text-muted-foreground">
-            With over 8 years in technical recruitment, I've developed expertise in identifying and securing top talent
+            With over 8+ years in technical recruitment, I've developed expertise in identifying and securing top talent
             for product companies. My approach combines strategic sourcing, relationship building, and deep
             understanding of technical roles to connect organizations with exceptional candidates.
           </p>

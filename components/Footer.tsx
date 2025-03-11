@@ -6,12 +6,12 @@ import { motion } from "framer-motion"
 const socialLinks = [
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/shalini-hr",
+    url: "https://www.linkedin.com/in/dixitshalini/",
     icon: Linkedin,
   },
   {
     name: "Email",
-    url: "mailto:shalini.hr@example.com",
+    url: "mailto:shalini.dixit@outlook.com",
     icon: Mail,
   },
 ]

@@ -19,7 +19,7 @@ export default function Home() {
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">Hi, I&apos;m Shalini</h1>
               <p className="text-base sm:text-lg text-muted-foreground md:text-xl">
-                Senior Technical Recruiter with 10+ years of experience in full-cycle recruitment for product companies.
+                Senior Technical Recruiter with 8+ years of experience in full-cycle recruitment for product companies.
                 Specialized in hiring top-tier technical talent across various domains.
               </p>
             </div>
