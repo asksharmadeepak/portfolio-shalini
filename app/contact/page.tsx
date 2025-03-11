@@ -18,25 +18,25 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: "Email",
-      value: "shalini.hr@example.com",
-      link: "mailto:shalini.hr@example.com",
+      value: "shalini.dixit@outlook.com",
+      link: "mailto:shalini.dixit@outlook.com",
     },
-    {
-      icon: Phone,
-      title: "Phone",
-      value: "+91 9876543210",
-      link: "tel:+919876543210",
-    },
+//     {
+//       icon: Phone,
+//       title: "Phone",
+//       value: "+91 9876543210",
+//       link: "tel:+919876543210",
+//     },
     {
       icon: Linkedin,
       title: "LinkedIn",
-      value: "linkedin.com/in/shalini-hr",
-      link: "https://linkedin.com/in/shalini-hr",
+      value: "linkedin.com/in/dixitshalini",
+      link: "https://www.linkedin.com/in/dixitshalini/",
     },
     {
       icon: MapPin,
       title: "Location",
-      value: "Hyderabad, India",
+      value: "Pune, India",
       link: "#",
     },
   ]
