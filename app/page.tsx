@@ -42,7 +42,7 @@ export default function Home() {
           >
             <div className="relative w-[280px] h-[280px] sm:w-[350px] sm:h-[350px] lg:w-[400px] lg:h-[400px]">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/placeholder.png?height=400&width=400"
                 alt="Shalini - HR Professional"
                 fill
                 className="object-cover rounded-full border-4 border-background shadow-xl"

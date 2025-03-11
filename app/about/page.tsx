@@ -8,7 +8,7 @@ export default function AboutPage() {
     {
       degree: "Bachelor of Technology (B. Tech.)",
       institution: "Electronics & Communication",
-      year: "2010",
+//       year: "2010",
       grade: "",
     },
   ]
